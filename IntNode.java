@@ -1,6 +1,7 @@
 // File: IntNode.java 
 // Complete documentation is available from the IntNode link in:
 //   http://www.cs.colorado.edu/~main/docs
+// This is from author Michael Main
 
 /******************************************************************************
  * An IntNode provides a node for a linked list with integer data in each node.
